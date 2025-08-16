@@ -1,7 +1,7 @@
 # TelecomX
 # Análisis de Evasión de Clientes (Churn) - TelecomX
 
-##Introducción
+## Introducción
 
 Este proyecto tiene como objetivo analizar y comprender los factores que contribuyen a la evasión de clientes (Churn) en la empresa de telecomunicaciones TelecomX. La evasión de clientes es un desafío significativo que impacta directamente en los ingresos y el crecimiento del negocio. Mediante el análisis exploratorio de datos, buscamos identificar patrones y características de los clientes que tienen una mayor probabilidad de abandonar el servicio, con el fin de proponer estrategias de retención efectivas.
 
@@ -17,8 +17,9 @@ El proyecto se desarrolla en un Google Colab Notebook que documenta todo el proc
 
 Este proyecto se ejecuta en Google Colab, que ya proporciona el entorno necesario con las librerías preinstaladas. Si deseas ejecutarlo localmente, necesitarás tener Python instalado junto con las siguientes librerías:
 
-pandas: Para manipulación y análisis de datos.
-requests: Para descargar el archivo JSON desde la URL.
-matplotlib: Para la creación de visualizaciones.
-seaborn: Para visualizaciones estadísticas.
+`pandas`: Para manipulación y análisis de datos.
+`requests`: Para descargar el archivo JSON desde la URL.
+`matplotlib`: Para la creación de visualizaciones.
+`seaborn`: Para visualizaciones estadísticas.
+
 Puedes instalar las dependencias utilizando pip:
