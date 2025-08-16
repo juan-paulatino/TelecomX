@@ -1,4 +1,3 @@
-# TelecomX
 # Análisis de Evasión de Clientes (Churn) - TelecomX
 
 ## Introducción
