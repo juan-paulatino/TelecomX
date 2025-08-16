@@ -11,7 +11,7 @@ El análisis se basa en un conjunto de datos que contiene información detallada
 
 El proyecto se desarrolla en un Google Colab Notebook que documenta todo el proceso de análisis, desde la carga y limpieza de datos hasta el análisis exploratorio y las conclusiones.
 
-´´´ TelecomX_Churn_Analysis.ipynb ´´´: Notebook de Google Colab que contiene todo el código, análisis, visualizaciones e informe final.
+`TelecomX_Churn_Analysis.ipynb`: Notebook de Google Colab que contiene todo el código, análisis, visualizaciones e informe final.
 
 ## Configuración e Instalación
 
