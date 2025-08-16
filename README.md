@@ -17,9 +17,9 @@ El proyecto se desarrolla en un Google Colab Notebook que documenta todo el proc
 
 Este proyecto se ejecuta en Google Colab, que ya proporciona el entorno necesario con las librerías preinstaladas. Si deseas ejecutarlo localmente, necesitarás tener Python instalado junto con las siguientes librerías:
 
-`pandas`: Para manipulación y análisis de datos.
-`requests`: Para descargar el archivo JSON desde la URL.
-`matplotlib`: Para la creación de visualizaciones.
+`pandas`: Para manipulación y análisis de datos.  
+`requests`: Para descargar el archivo JSON desde la URL.  
+`matplotlib`: Para la creación de visualizaciones.  
 `seaborn`: Para visualizaciones estadísticas.
 
 Puedes instalar las dependencias utilizando pip:
